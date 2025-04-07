@@ -1,8 +1,13 @@
-## Hi there 👋
 
+
+# Education
 - Bachelor's Degree in Mathematical Support and Administration of Information Systems from Tyumen State University (Graduated in 2023)
 - Master's Degree Student in Mathematical Support and Administration of Information Systems at Tyumen State University
 
+# About Me
+I'm currently pursuing my Master's degree in Mathematical Support and Administration of Information Systems at Tyumen State University.
+
+In 2023, I was awarded a grant to implement a project focused on creating a game-based web platform that provides information about university programs through narrative stories. The platform is designed for high school seniors and first-year university students to help them explore different academic paths. You can check out the demo version here: Test Version.
 <!--
 **liwiggwp/liwiggwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
