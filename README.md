@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- Bachelor's Degree in Mathematical Support and Administration of Information Systems from Tyumen State University (Graduated in 2023)
+- Master's Degree Student in Mathematical Support and Administration of Information Systems at Tyumen State University
+
 <!--
 **liwiggwp/liwiggwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
